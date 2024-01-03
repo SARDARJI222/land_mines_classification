@@ -3,7 +3,7 @@
 ## Overview
 
 This web application uses a Support Vector Machine (SVM) model to classify mine types based on input features such as voltage height and soil type. The app is built using Streamlit, a popular Python library for creating interactive web applications with minimal effort.
-
+ I also applied the decision tree after the data is balanced and the accuracy improved. Thereby i update the code accourding to new accuracy 
 
 ## Prediction
 
