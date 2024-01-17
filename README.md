@@ -1,4 +1,4 @@
-# Wine Quality Prediction Flask App
+# Land MOne Classification Flask App
 
 ## Overview
 
