@@ -1,4 +1,4 @@
-# Land MOne Classification Flask App
+# Land Mine Classification Flask App
 
 ## Overview
 
